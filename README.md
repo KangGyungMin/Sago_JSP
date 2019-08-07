@@ -1,2 +1,2 @@
-# Sago_JSP
-JSP 전용
+# Sago_Kang
+혼자 연습 전용
